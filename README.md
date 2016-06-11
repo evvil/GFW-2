@@ -36,23 +36,16 @@
 
 1、Shadowsocks(SS)
 	Socks5代理
-	免费SOCK5代理
-	{
-		"server":"45.78.3.236",  
-		"server_port":8989,
-		"local_port":1080,
-		"password":"9hBZBIg46u",
-		"method":"aes-256-cfb"
-	}
+	
 	客户端下载地址（已打包Android、Windows、OSX客户端）
 	https://shadowsocks.org/en/index.html
 
 
 
-2、XX-Net(GoEgent)
+2、XX-Net(GoAgent)
 
 3、SSH(Openshift)
-
+	
 4、VPN
 
 
