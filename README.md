@@ -12,7 +12,7 @@
 
 
 0、Hosts
-	http://laod.cn/hosts/2015-google-hosts.html
+	http://laod.cn/hosts/2016-google-hosts.html
 	
 	修改hosts后生效的方法
 	Windows
