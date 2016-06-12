@@ -45,9 +45,13 @@
 2、XX-Net(GoAgent)
 
 3、SSH(Openshift)
+	SSH登录服务器,端口转发
+	安卓:Proxydroid + connect-bot 
+
 	
 4、VPN
 
+5、自由门、无极浏览器
 
 
 
