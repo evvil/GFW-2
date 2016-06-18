@@ -9,7 +9,7 @@
 重要的话说三遍！！！！
 
 0.0浏览器设置
-
+	
 
 0、Hosts
 	http://laod.cn/hosts/2016-google-hosts.html
@@ -50,11 +50,14 @@
 
 	
 4、VPN
+	lantern蓝灯
 
-5、自由门、无极浏览器
+5、自由门、无极浏览器、集成GAE的Chrome浏览器
 
 
 
+其它：
+gogotest 	gae ip检测工具(程序需.NET Frameworks 4.0环境)
 
 
 
